@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Inductor_Extended")(type "KiCad")(uri "${KIPRJMOD}/footprints/SRP4020FA_1R0M")(options "")(descr ""))
+)
