@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "BME280Breakout.kicad_prl",
+    "filename": "IMUBreakout.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
